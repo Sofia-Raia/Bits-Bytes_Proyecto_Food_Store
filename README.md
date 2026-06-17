@@ -11,7 +11,7 @@ Integrantes:
   - Raia, Sofia
   - Rolón, Octavio
 
-Link al video: 
+Link al video: https://drive.google.com/drive/folders/1OGH77ShVzMDPWxkGlF8BbVB3QBbhyBLB?usp=sharing
 
 Aplicación web full-stack para la gestión de pedidos de comida: catálogo con imágenes (Cloudinary), carrito, pedidos con máquina de estados (FSM) y trazabilidad append-only, pagos con MercadoPago Checkout Pro, y actualizaciones de estado en tiempo real por WebSocket.
 
